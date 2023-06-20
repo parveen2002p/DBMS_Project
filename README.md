@@ -1,4 +1,5 @@
 # DBMS_Project
+Developed a GUI Application for cab booking & management with backend database connectivity. Devised the entity-relationship model, and implemented an efficient database, identified transactions & their schedules.
 
 Run MainDriver.java as main file in src folder.
 Refer Final Report.pdf for more detailed project desription.
